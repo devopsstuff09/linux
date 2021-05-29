@@ -1,0 +1,5 @@
+How to add sudoers and grant one or two commands to users
+user1 ALL=(ALL) ALL
+user2 ALL=(ALL) ALL NOPASSWD:ALL
+user3 ALL=(ALL) NOPASSWD:ALL,!/usr/sbin/fdisk #one cmd not allowed
+user4 ALL=(ALL) NOPASSWD:/usr/sbin/fdisk,/usr/bin/passwd ##allowed only to commads
