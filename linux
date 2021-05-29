@@ -1,0 +1,71 @@
+520  28/05/21 21:42:26 echo pavan
+  521  28/05/21 21:42:35 echo 1234
+  522  28/05/21 21:42:54 echo "hi welcome to edureka"
+  523  28/05/21 21:43:21 echo "hi welcome to edureka" > /dev/pts/1
+  524  28/05/21 21:44:23 ps
+  525  28/05/21 21:44:33 cd /proc/
+  526  28/05/21 21:44:40 ps -ef
+  527  28/05/21 21:44:53 ls
+  528  28/05/21 21:45:21 pwd
+  529  28/05/21 21:45:34 ps -ef | grep 1314
+  530  28/05/21 21:45:55 pwd
+  531  28/05/21 21:45:55 ls
+  532  28/05/21 21:46:05 cd 1314
+  533  28/05/21 21:46:14 pwd
+  534  28/05/21 21:46:16 ls
+  535  28/05/21 21:46:46 cat limits 
+  536  28/05/21 21:48:19 nproc 
+  537  28/05/21 21:48:38 pwd
+  538  28/05/21 21:48:44 ls
+  539  28/05/21 21:48:46 cd ..
+  540  28/05/21 21:48:47 ls
+  541  28/05/21 21:48:53 cd 1731
+  542  28/05/21 21:48:54 ls
+  543  28/05/21 21:49:29 cat limits 
+  544  28/05/21 21:50:36 cat /etc/security/limits.conf 
+  545  28/05/21 21:51:23 cat /proc/meminfo 
+  546  28/05/21 21:52:07 #cat /proc/meminfo 
+  547  28/05/21 21:52:18 cat /proc/version 
+  548  28/05/21 21:52:30 uname -r
+  549  28/05/21 21:52:32 uname -a
+  550  28/05/21 21:52:50 #cat /proc/meminfo 
+  551  28/05/21 21:52:54 #cat /proc/version 
+  552  28/05/21 21:53:08 cat /proc/cpuinfo 
+  553  28/05/21 21:54:59 nproc 
+  554  28/05/21 21:55:07 #cat /proc/cpuinfo 
+  555  28/05/21 21:55:43 cat /proc/pratition
+  556  28/05/21 21:55:56 cat /proc/pratitions
+  557  28/05/21 21:56:07 cat /proc/devices 
+  558  28/05/21 21:56:23 cat /proc/partitions 
+  559  28/05/21 21:57:06 cat /proc/devices 
+  560  28/05/21 21:57:39 hostname
+  561  28/05/21 21:58:15 cat /proc/sys/kernel/hostname 
+  562  28/05/21 21:59:25 cat /etc/security/limits.conf 
+  563  28/05/21 22:00:11 #cat /etc/security/limits.conf 
+  564  28/05/21 22:01:37 pwd
+  565  28/05/21 22:01:39 cd ..
+  566  28/05/21 22:03:43 cd 
+  567  28/05/21 22:03:47 sysctl -a
+  568  28/05/21 22:04:14 sysctl -a | grep max_process
+  569  28/05/21 22:04:20 sysctl -a | grep process
+  570  28/05/21 22:04:30 sysctl -a | grep pid
+  571  28/05/21 22:06:38 vi /etc/sysctl.conf 
+  572  28/05/21 22:07:05 sysctl -a | grep pid
+  573  28/05/21 22:07:30 sysctl -p
+  574  28/05/21 22:07:41 sysctl -a | grep pid
+  575  28/05/21 22:08:17 #vi /etc/sysctl.conf 
+  576  28/05/21 22:08:23 sysctl -a
+  577  28/05/21 22:09:28 ps -ef | wc -l
+  578  28/05/21 22:11:10 #cat /etc/sysctl.conf 
+  579  28/05/21 22:11:35 cat /etc/sysctl.conf 
+  580  28/05/21 22:12:18 ls
+  581  28/05/21 22:12:20  ls -l
+  582  28/05/21 22:12:31 pwd
+  583  28/05/21 22:12:55 mkdir ppp
+  584  28/05/21 22:12:57 ls
+  585  28/05/21 22:12:59 ls -l
+  586  28/05/21 22:13:25 xfs_info /dev/sda2 
+  587  28/05/21 22:13:30 lsblk 
+  588* 28/05/21 22:13:42 xfs_info /dev/mapper/centos-root
+  589  28/05/21 22:15:10 stat ppp
+  590  28/05/21 22:27:47 history
